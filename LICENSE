@@ -1,21 +1,20 @@
-MIT License
+ 
+             FOSS LIBRE AND PUBLIC SOFTWARE LICENCE
+                     
+                    Version 0.3, May 2020
 
-Copyright (c) 2020 quisys
+    [This software] Copyright (C) [year] [name] [email]
+                    Under 1 KB since 2020
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ 
+                 FOSS LIBRE PUBLIC SOFTWARE LICENCE
+  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ 0. You are free to do as you with this code (see clauses 1 and 2).
+ 1. If you modify the code and plan to redistribute it, change the name of the
+ software.
+ 2. You may not copy this code and release it under an EULA. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THIS SOFTWARE IS DISTRIBUTED "AS IS" AND THE AUTHOR OFFERS NO WARRANTY UPON IT.
+THE AUTHOR IS NOT LIABLE FOR ANY DAMAGE UNDER ANY CIRCUMSTANCE, INCLUDING BUT
+NOT LIMITED TO: LOSS OF DATA, MONITARY LOSS or DAMAGED HARDWARE.
