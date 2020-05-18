@@ -36,11 +36,7 @@ while True:
             else:
                 break
     if op == "add":
-        if n1 == 9:
-            if n2 == 10:
-                p= 21
-            else:
-                p= n1+n2
+        p= n1+n2
     if op == "sub":
         p = n1-n2
     if op == "mul":
